@@ -1,0 +1,50 @@
+https://popcode.org/?snapshot=160fe0da-bc45-48a0-b02d-2d317089e3e6
+}
+
+.item1 {
+    margin: 10px;
+    padding: 5px;
+    border-style: dotted;
+    background-color:#F0F8FF;
+}
+.menu2{
+    display:flex;
+    justify-content:space-around;
+    background-color: #8A2BE2;
+    margin: 5px;
+    padding: 10px;
+    border-style: inset;
+    font-family: Helvetica;
+}
+
+.item2{
+    margin: 10px;
+    padding: 5px;
+    border-style: double;
+    background-color:#E0FFFF;
+}
+
+
+
+.menu3{
+    display:flex;
+    justify-content:space-around;
+    background-color: #20B2AA;
+    margin: 5px;
+    padding: 10px;
+    border-style: inset;
+    font-family: garamond;
+}
+
+
+.item3{
+    margin: 10px;
+    padding: 5px;
+    border-style: groove;
+    background-color:#FFE4E1;  
+}
+
+
+
+
+
